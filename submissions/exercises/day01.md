@@ -56,8 +56,9 @@ _(just choose the questions you would like to answer and make it concise)_
     <br>
 
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback 
-The website's design is visually appealing, with a clean and modern layout. The use of colors and fonts creates a pleasant aesthetic, giving a professional impression. The imagery and graphics used on the homepage effectively capture the essence of the featured game and entice visitors to explore further. I played this multiple times and this was my high score na ayoko na k na yan my perfectionism is getting in the way HAHAHAHA
 ![393133333_716595503733058_2884977039969111287_n (1)](https://github.com/yasmnngls/AWSCC-CodeQuest-UI-UX/assets/149950582/032c8a6f-7118-4960-8715-732e95af0d6c)
+The website's design is visually appealing, with a clean and modern layout. The use of colors and fonts creates a pleasant aesthetic, giving a professional impression. The imagery and graphics used on the homepage effectively capture the essence of the featured game and entice visitors to explore further. I played this multiple times and this was my high score na ayoko na k na yan my perfectionism is getting in the way HAHAHAHA
+
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
 
 <!-- You may now delete and modify the content of this file -->
