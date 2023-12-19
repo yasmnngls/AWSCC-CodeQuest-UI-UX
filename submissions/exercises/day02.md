@@ -10,8 +10,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 1. https://www.figma.com/file/S5iB9bF7psUhgs0Jq79YbZ/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=5%3A1668&mode=design&t=ZQ1Yg00BRcWFbKJC-1
 2. https://www.figma.com/file/S5iB9bF7psUhgs0Jq79YbZ/AWSCC-Figma-Workshop%3A-Basics-(Community)?type=design&node-id=203%3A30&mode=design&t=ZQ1Yg00BRcWFbKJC-1
    
-- Brief explanation of your experience or reflection
-The experience using figma got me hooked in terms of designing aspects. It was easy to navigate and the process per slides was smooth in learning - showing its user friendly feature.
+- Brief explanation of your experience or reflection: The experience using figma got me hooked in terms of designing aspects. It was easy to navigate and the process per slides was smooth in learning - showing its user friendly feature.
 
 Ready to include your output for **Day 2**? Let the customization begin! 🚀✨
 
